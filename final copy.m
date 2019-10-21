@@ -1,7 +1,7 @@
 
 function plotOptions
 
-string= 'hello';
+
 fig = uifigure ('Name', 'Most Similar Field Hockey Teams', 'Color', [0 0.4470 0.7410]); 
 
 intro1 = uilabel(fig,...
